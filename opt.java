@@ -35,10 +35,10 @@ public class opt {
             
             //System.out.printf("%04d%n", rand.nextInt(10000));
             String host ="smtp.gmail.com" ;
-            String user = "kniterp178212@gmail.com";
-            String pass = "8171842600";
+            String user = "your email id ";
+            String pass = "email id password ";
             String to = email;
-            String from = "kniterp178212@gmail.com";
+            String from = "your email id ";
             String subject = "KNIT ERP LOGIN VERIFICATION";
             String messageText = "YOU ONE TIME OTP is "+id;
             boolean sessionDebug = false;
